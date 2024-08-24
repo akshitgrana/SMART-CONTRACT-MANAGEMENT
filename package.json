@@ -8,7 +8,7 @@
     "dev": "lite-server"
   },
   "keywords": [],
-  "author": "Nikhil Chib",
+  "author": "Akshit G Rana",
   "license": "ISC",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
