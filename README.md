@@ -27,9 +27,11 @@ This project showcases a basic implementation of a decentralized bank using Ethe
 
 ### Application Preview 
 
-![image](https://github.com/NikhTheTech/Smart-Contract-Management/assets/95464996/721ca4aa-02af-4de9-ac20-f0d4aed8e9c6)
+![image](https://github.com/user-attachments/assets/fbb45861-66b0-497e-83a5-135908071d62)
 
-![image](https://github.com/NikhTheTech/Smart-Contract-Management/assets/95464996/1f5ab53a-ca0f-44d9-99a3-dde7f5a343d3)
+
+![image](https://github.com/user-attachments/assets/689b3705-340c-4fcf-8de0-28b5319e2daa)
+
 
 
 
@@ -143,7 +145,7 @@ To run this project locally or deploy it:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/NikhTheTech/Smart-Contract-Management
+   https://github.com/akshitgrana/SMART-CONTRACT-MANAGEMENTt
    ```
 2. Deploy `Bank.sol` on an Ethereum-compatible blockchain (e.g., Remix IDE, Truffle).
 3. Update `index.html` with the deployed smart contract address.
